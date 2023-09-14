@@ -31,7 +31,7 @@
                 </div>
                 <div class="flex flex-col space-y-2">
                     <label for="biology">Biology</label>
-                    <input type="number" id="chemistry" name="biology" class="border-2 border-indigo-200 focus:outline-none focus:border-indigo-400 py-1.5 px-4" placeholder="Enter Biology Subject Marks"/>
+                    <input type="number" id="biology" name="biology" class="border-2 border-indigo-200 focus:outline-none focus:border-indigo-400 py-1.5 px-4" placeholder="Enter Biology Subject Marks"/>
                 </div>
 
                 <button class="bg-indigo-500 px-4 py-1.5 rounded justify-center text-white" type="submit" name="calculate" value="calculate">GPA Calculate</button>
